@@ -23,7 +23,7 @@ An exotic syntax theme for Atom, based on [Peacock](https://atom.io/themes/peaco
 
 ## Contributing
 
-If you find what you would consider a bug:
+If you find a bug:
 
 - Check out the issues on GitHub to see if anyone else has reported the same issue.
 - If you don't see anything, create an issue with information on how to reproduce it.
