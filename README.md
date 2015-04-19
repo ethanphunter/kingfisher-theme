@@ -4,13 +4,21 @@ An exotic syntax theme for Atom, based on [Peacock](https://atom.io/themes/peaco
 
 ## Screenshots
 
+### LESS
+
 ![LESS screenshot](https://raw.githubusercontent.com/leeds-ebooks/kingfisher-theme/master/screen-less.png)
+
+### HTML
+
 ![HTML screenshot](https://raw.githubusercontent.com/leeds-ebooks/kingfisher-theme/master/screen-html.png)
+
+### ES6
+
 ![ES6 screenshot](https://raw.githubusercontent.com/leeds-ebooks/kingfisher-theme/master/screen-es6.png)
 
-Open Atom Preferences, select Themes > Search for `kingfisher`, then Install.
+### Scala
 
-Activate the theme by selecting the Themes section of Preferences.
+![Scala screenshot](https://raw.githubusercontent.com/leeds-ebooks/kingfisher-theme/master/screen-scala.png)
 
 
 ## Contributing
