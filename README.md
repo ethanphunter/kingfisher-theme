@@ -1,16 +1,14 @@
-# Peacock Syntax Theme
+# Kingfisher Syntax Theme
 
-A festive feel syntax theme for Atom
+An exotic syntax theme for Atom
 
 ## Screenshot
 
-![Peacock screenshot](https://raw.githubusercontent.com/adooylabs/peacock-theme/master/screenshot.png)
+![LESS screenshot](https://raw.githubusercontent.com/leeds-ebooks/kingfisher-theme/master/screen-less.png)
+![HTML screenshot](https://raw.githubusercontent.com/leeds-ebooks/kingfisher-theme/master/screen-html.png)
 
+Open Atom Preferences, select Themes > Search for `kingfisher`, then Install.
 
-Open Atom Preferences, select Themes > Search for `peacock-syntax`,
-then Install.
-
-*You may need to reload Atom `Cmd+R` in between these steps.*
 Activate the theme by selecting the Themes section of Preferences.
 
 
