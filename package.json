@@ -2,7 +2,7 @@
   "name": "kingfisher-syntax",
   "theme": "syntax",
   "version": "0.1.2",
-  "description": "A syntax theme based on the atom theme called Peacock",
+  "description": "An exotic dark syntax theme based on the Peacock atom theme",
   "repository": "https://github.com/Leeds-eBooks/kingfisher-theme",
   "license": "MIT",
   "engines": {
