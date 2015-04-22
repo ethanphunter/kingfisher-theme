@@ -3,6 +3,14 @@
   "theme": "syntax",
   "version": "0.1.5",
   "description": "An exotic dark syntax theme based on the Peacock atom theme",
+  "keywords": [
+    "dark",
+    "exotic",
+    "black",
+    "Scala",
+    "es6",
+    "red"
+  ],
   "repository": "https://github.com/Leeds-eBooks/kingfisher-theme",
   "license": "MIT",
   "engines": {
