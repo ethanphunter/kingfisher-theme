@@ -321,12 +321,29 @@ atom-text-editor .search-results .marker.current-result .region {
   }
 }
 
-.source.gfm .markup {
-  -webkit-font-smoothing: auto;
-  &.heading {
-    color: @green;
+.source.gfm {
+  .markup {
+    -webkit-font-smoothing: auto;
+    &.heading {
+      color: @green;
+    }
+  }
+
+  .link {
+    .entity {
+      color: @orange;
+    }
+    .underline {
+      color: @blue;
+      text-decoration: underline;
+      .punctuation.definition {
+        color: @syntax-text-color;
+        // text-decoration: none;
+      }
+    }
   }
 }
+
 .scala.bracket {
   color: @red;
 
