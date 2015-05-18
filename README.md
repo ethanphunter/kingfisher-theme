@@ -4,17 +4,17 @@ An exotic syntax theme for Atom, based on [Peacock](https://atom.io/themes/peaco
 
 ## Screenshots
 
-### LESS
+### ES6
 
-![LESS screenshot](https://raw.githubusercontent.com/leeds-ebooks/kingfisher-theme/master/screen-less.png)
+![ES6 screenshot](https://raw.githubusercontent.com/leeds-ebooks/kingfisher-theme/master/screen-es6.png)
 
 ### HTML
 
 ![HTML screenshot](https://raw.githubusercontent.com/leeds-ebooks/kingfisher-theme/master/screen-html.png)
 
-### ES6
+### LESS
 
-![ES6 screenshot](https://raw.githubusercontent.com/leeds-ebooks/kingfisher-theme/master/screen-es6.png)
+![LESS screenshot](https://raw.githubusercontent.com/leeds-ebooks/kingfisher-theme/master/screen-less.png)
 
 ### Scala
 
