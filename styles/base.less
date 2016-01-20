@@ -126,6 +126,11 @@ atom-text-editor .search-results .marker.current-result .region {
   color: @orange;
   // color: lighten(@orange, 5%);
 
+  &.property,
+  &.module {
+    color: @syntax-text-color;
+  }
+
   &.interpolation {
     color: @red;
     // color: darken(@orange, 10%);
@@ -168,7 +173,10 @@ atom-text-editor .search-results .marker.current-result .region {
       color: @green;
     }
 
-    &.parameters, &.dictionary {
+    &.parameters,
+    &.dictionary,
+    &.arguments,
+    &.modules {
       color: @red;
     }
 
@@ -274,7 +282,7 @@ atom-text-editor .search-results .marker.current-result .region {
 
   &.brace.curly, &.brace.square, &.brace.round {
     color: @red;
-    font-weight: bold;
+    // font-weight: bold;
   }
 }
 
