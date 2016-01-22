@@ -1,7 +1,7 @@
 {
   "name": "kingfisher-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "An exotic dark syntax theme based on the Peacock atom theme",
   "keywords": [
     "dark",
